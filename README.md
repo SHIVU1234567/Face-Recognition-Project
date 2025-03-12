@@ -33,3 +33,13 @@ Load and preprocess the dataset.
 Use SciPy to extract and analyze facial features.
 Visualize data using Seaborn.
 Apply recognition algorithms for face identification.
+
+**OUTPUT**
+
+![image](https://github.com/user-attachments/assets/c5602eda-a518-444e-b19d-0046cbad7652)
+
+![image](https://github.com/user-attachments/assets/134a2379-a192-4bec-b22b-2e34025f3529)
+
+![image](https://github.com/user-attachments/assets/023bde42-0ab0-4a24-8c8f-9df2ddba6304)
+
+
